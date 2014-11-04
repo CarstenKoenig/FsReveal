@@ -61,4 +61,4 @@ Target "KeepRunning" (fun _ ->
   ==> "GenerateSlides"
   ==> "KeepRunning"
 
-RunTargetOrDefault "GenerateSlides"
+RunTargetOrDefault "KeepRunning"
